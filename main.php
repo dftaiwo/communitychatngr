@@ -1,2 +1,2 @@
 <?php
-    echo 'Hello UserName';
+    echo 'Good afternoon';
